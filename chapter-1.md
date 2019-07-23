@@ -147,5 +147,4 @@ const vehicle = (state) => ({
 
 [![Source: Youtube](https://img.youtube.com/vi/wfMtDGfHWpA/0.jpg)](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
-#
 ### Thank you!
