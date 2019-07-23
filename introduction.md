@@ -10,4 +10,4 @@ isFree: true
 
 Welcome to Javascript Concepts!
 
-Begin with [Chapter One](https://michaelstromer.nyc/books/js-concepts/prototypal-inheritance).
+Begin with [Chapter One](https://michaelstromer.nyc/books/javascript-concepts/prototypal-inheritance).
