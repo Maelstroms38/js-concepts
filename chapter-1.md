@@ -40,7 +40,7 @@ class Media {
 
 // child class
 class Song extends Media {
- construcor(songData = {}) {
+ constructor(songData = {}) {
      super(songData);
      this.artist = songData.artist;
  }
@@ -133,7 +133,8 @@ const vehicle = (state) => ({
     drive: () => console.log("Vrrroom! Speed: " + state.speed),
 });
 ```
-- Declare an instance of your new prototype object, which should include a number of wheels and new `speed`.
+- Declare an instance of your new prototype object, which should include a number of wheels and new `speed` property.
+- As a bonus, try to modify the vehicle's speed with new methods called `accelerate()` and `break()`.
 
 ## Discussion: In what scenarios would each type of inheritance apply?
 
